@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Tangerine:wght@700&display=swap');
+
 .img-thumbnail {
   padding: .25rem;
   background-color: #fff;
@@ -18,4 +20,28 @@
   border-radius: 50%;
   transition: all 0.3s;
   font-size: 0.9rem;
+}
+
+.About {
+  position: relative;
+  font-size: 2.5em;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 1em, 1em, 1em, 1em;
+  padding: .25rem;
+}
+
+.on-carousel {
+  position: absolute;
+  margin-top: 12%;
+  margin-left: 29%;
+  z-index: 2;
+  font-size: 12vw;
+  color: white;
+  text-align: center;
+  font-family: 'Tangerine';
+  align-items: center;
+}
+
+i.fa.fa-heart {
+  color: #dc0e0e;
 }
