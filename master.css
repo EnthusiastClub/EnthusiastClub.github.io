@@ -29,7 +29,10 @@
   margin: 1em, 1em, 1em, 1em;
   padding: .25rem;
 }
-
+.desg {
+  color: #000000 !important;
+  ;
+}
 .on-carousel {
   position: absolute;
   margin-top: 12%;
